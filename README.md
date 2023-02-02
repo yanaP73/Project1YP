@@ -48,8 +48,8 @@ to GitHub. I initiated the git repository with 'git innit', then used 'git statu
 
 #### Acknowledgements
 
-- Nav bar code came from <!--https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_nav&stacked=h-->
-<!--https://stackoverflow.com/questions/24420080/change-navbar-text-color-bootstrap--> then edited by me.
-- I got my form code from <!--https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_form_validation_was&stacked=h--> and edited by me.
-- I got the footer code from <!--https://www.w3schools.com/tags/tag_footer.asp--> and then edited by me.
-- I got the separator line code from <!--https://www.youtube.com/watch?v=STqW8mppEic-->
+- Nav bar code came from https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_nav&stacked=h and
+https://stackoverflow.com/questions/24420080/change-navbar-text-color-bootstrap then edited by me.
+- I got my form code from https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_form_validation_was&stacked=h and edited by me.
+- I got the footer code from https://www.w3schools.com/tags/tag_footer.asp and then edited by me.
+- I got the separator line code from https://www.youtube.com/watch?v=STqW8mppEic
